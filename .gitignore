@@ -1,0 +1,17 @@
+.env
+chroma_db/
+
+docs/
+
+pycache/
+*.py[cod]
+*$py.class
+
+.cache/
+huggingface/
+
+jieba.cache
+
+models/
+
+rag_venv/
