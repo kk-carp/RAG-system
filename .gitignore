@@ -15,4 +15,3 @@ jieba.cache
 models/
 
 rag_venv/
-.gitignore
